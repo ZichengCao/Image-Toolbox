@@ -174,3 +174,11 @@ cython_debug/
 *.webp
 output/
 temp/
+
+# Build outputs
+installer_output/
+portable/
+logs/
+
+# Keep spec files but ignore build directories
+# *.spec  (uncommented to keep spec files in version control)
